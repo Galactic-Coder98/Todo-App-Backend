@@ -48,5 +48,5 @@ npx prisma migrate dev --name init
 
 ### 8. Turn the server on so that the frontend project can make appropriate requests:
 ```bash
-(npx nodemon index.js)
+npx nodemon index.js
 ```
